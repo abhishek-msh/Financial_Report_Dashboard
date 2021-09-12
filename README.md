@@ -1,7 +1,6 @@
 # Financial_Report_Dashboard
 It's a Power BI dashboard using the Financial Report of 5 countries from 2013 to 2014. You can find the snapshots of the dashboard below :)
-![Screenshot 2021-09-12 115333](https://user-images.githubusercontent.com/73299884/132974475-f6585a6d-a2fd-4daf-aa6f-34a176b5008d.png)
-![Screenshot 2021-09-12 115349](https://user-images.githubusercontent.com/73299884/132974476-41023352-6745-4d75-86c6-cfa219f5667f.png)
-![Screenshot 2021-09-12 115406](https://user-images.githubusercontent.com/73299884/132974477-c5ce15be-36aa-49ae-a5ac-bc9b5a88ab7a.png)
-![Screenshot 2021-09-12 115420](https://user-images.githubusercontent.com/73299884/132974479-b683c22a-9f72-44fe-8f63-0cda8e7e4164.png)
-
+![Screenshot 2021-09-12 222908](https://user-images.githubusercontent.com/73299884/132996286-1316c433-fd56-4d59-a6ff-a6026c80d324.png)
+![Screenshot 2021-09-12 222940](https://user-images.githubusercontent.com/73299884/132996289-ab49caef-d495-43e1-a19e-15e801ba5f6c.png)
+![Screenshot 2021-09-12 223007](https://user-images.githubusercontent.com/73299884/132996291-f95e7ddf-326d-4631-b7a9-7d2182afd558.png)
+![Screenshot 2021-09-12 223110](https://user-images.githubusercontent.com/73299884/132996293-2e3b9739-f9bf-4f9e-b3b2-b781da4c8a87.png)
